@@ -1,7 +1,7 @@
 # 📌 ForumHub API
 
 API REST desenvolvida em **Java com Spring Boot** para gerenciamento de tópicos de fórum.  
-O projeto implementa um CRUD completo (Create, Read, Update, Delete) e utiliza **JPA/Hibernate** com banco de dados **H2** em memória.
+O projeto implementa um CRUD completo (Create, Read, Update, Delete) e utiliza **JPA/Hibernate** com banco de dados **MySql** .
 
 ---
 
@@ -29,7 +29,7 @@ Cada tópico possui as seguintes informações:
 - Java 17+  
 - Spring Boot 3  
 - Spring Data JPA  
-- H2 Database (em memória)  
+- MySql  
 
 ---
 
